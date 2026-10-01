@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentación del proyecto
+    url: ../../docs/README.md
+    about: Consulta la estructura de la aplicación y las decisiones de diseño antes de abrir una incidencia.
